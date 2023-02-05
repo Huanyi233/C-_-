@@ -1,0 +1,11 @@
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\bin\Debug\九宫格.exe.config
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\bin\Debug\九宫格.exe
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\bin\Debug\九宫格.pdb
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\obj\Debug\九宫格.Form1.resources
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\obj\Debug\九宫格.Properties.Resources.resources
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\obj\Debug\九宫格.csproj.GenerateResource.cache
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\obj\Debug\九宫格.csproj.CoreCompileInputs.cache
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\obj\Debug\九宫格.exe
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\obj\Debug\九宫格.pdb
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\obj\Debug\九宫格.csproj.AssemblyReference.cache
+E:\上课\C#\考核样例功能实现\九宫格\九宫格\obj\Debug\九宫格.csproj.SuggestedBindingRedirects.cache
